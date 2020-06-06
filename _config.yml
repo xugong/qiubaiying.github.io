@@ -12,7 +12,7 @@ github_repo: "https://github.com/xugong/xugong.github.io.git" # you code reposit
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/文件 03-11-15 00 08 19.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/xugong.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
