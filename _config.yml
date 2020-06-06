@@ -19,9 +19,9 @@ sidebar-avatar: /img/avatar-g.jpg      # use absolute URL, seeing it's used in b
 # SNS settings
 RSS: false
 # weibo_username:   xugong
-zhihu_username:     xugong
+#zhihu_username:     xugong
 github_username:    xugong
-facebook_username:  gong.xu.39
+facebook_username:  gong.xu
 jianshu_username:   a36db6b36573
 twitter_username:  @xuxugong
 
