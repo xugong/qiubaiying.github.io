@@ -64,8 +64,8 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: ffc8a8c280329650ed26                            #生成的clientID
-  clientSecret: 1abc894a4d1f814de8c90e25309996f4a4898292   #生成的clientSecret
+  clientID: 33fea28902716ad84d3f                            #生成的clientID
+  clientSecret: 5a6a76d0e1ec4f8cd7cb460c2f48d3d547f2f272   #生成的clientSecret
   repo: xugong.github.io    #仓库名称
   owner: xugong    #github用户名
   admin: xugong
