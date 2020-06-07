@@ -21,10 +21,11 @@ sidebar-avatar: /img/xugong.jpeg     # use absolute URL, seeing it's used in bot
 RSS: TRUE
 # weibo_username:   xugong
 #zhihu_username:     xugong
+twitter_username:   xuxugong
 github_username:    xugong
-facebook_username:  xugong
-jianshu_username:   xugong
-twitter_username:   xugong
+facebook_username:  gongxu39
+#jianshu_username:   a36db6b36573
+
 
 
 
@@ -99,12 +100,9 @@ service-worker: true
 
 # Friends
 friends: [
-    {
-        title: "WY",
-        href: "http://zhengwuyang.com"
-    },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+   {
+        title: "简书·Superxuxu",
+        href: "https://www.jianshu.com/u/a36db6b36573"
     },{
         title: "Apple",
         href: "https://apple.com"
