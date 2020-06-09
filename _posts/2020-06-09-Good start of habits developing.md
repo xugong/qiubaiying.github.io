@@ -7,14 +7,16 @@ author: Xu Gong                      #作者
 header-img: img/post-bg-2015.jpeg          #这篇文章标题背景图片
 catalog: true                       #是否归档
 tags： 
-  -efficiency                       #标签
-
+  - efficiency                       #标签
 ---
+
+
+
 # Good start of habits developing
 
 > The biggest victory of man is to defeat himself! 
 >
-> Once, the man learns to defeat himself, he will be the winner.
+> Once, the man learns to defeat the enemy provided by himself, he will be the winner.
 
 ### About writing. Try to stick to writing for 3 hours a day. 
 
@@ -32,7 +34,7 @@ It may be possible to process several things in parallel while working. The disa
 
 Exercise can keep the body in good shape and state, and running can train your concentration. I have developed the habit of running 10 kilometers per day. I used to like to run in the afternoon or at night. To spend more time reading at night, I decided to change this habit to run for 1 hour in the morning.
 
-### About reading and skincare. Read 1 hour a day.
+### About reading and skincare. Read 1 hour per day.
 
 People who do scientific research, especially those who have reached a Ph.D. level in a field, are very focused in one field. That is, focusing on a certain field will make them ignore the knowledge of other fields. An hour of books reading keeps you constantly updated with fresh knowledge. Keep reading one book and change it to another book.People who do scientific research, especially those who have reached a Ph.D. level in a field, are very focused in one field. That is, focusing on a certain field will make them ignore the knowledge of other fields. An hour of books reading keeps you constantly updated with fresh knowledge. Keep reading one book and change it to another book.  Reading enhances one's own spirit, skin care improves one's external appearance, neither can relax!
 
