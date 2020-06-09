@@ -13,6 +13,7 @@ tags：
 # Good start of habits developing
 
 > The biggest victory of man is to defeat himself! 
+>
 > Once, the man learns to defeat himself, he will be the winner.
 
 ### About writing. Try to stick to writing for 3 hours a day. 
@@ -33,7 +34,9 @@ Exercise can keep the body in good shape and state, and running can train your c
 
 ### About reading and skincare. Read 1 hour a day.
 
-People who do scientific research, especially those who have reached a Ph.D. level in a field, are very focused in one field. That is, focusing on a certain field will make them ignore the knowledge of other fields. An hour of books reading keeps you constantly updated with fresh knowledge. Keep reading one book and change it to another book. Cultivate the habit of accomplishing one thing, complete a paper and start writing another one, and finish reading one book and then start reading another book.
+People who do scientific research, especially those who have reached a Ph.D. level in a field, are very focused in one field. That is, focusing on a certain field will make them ignore the knowledge of other fields. An hour of books reading keeps you constantly updated with fresh knowledge. Keep reading one book and change it to another book.People who do scientific research, especially those who have reached a Ph.D. level in a field, are very focused in one field. That is, focusing on a certain field will make them ignore the knowledge of other fields. An hour of books reading keeps you constantly updated with fresh knowledge. Keep reading one book and change it to another book.  Reading enhances one's own spirit, skin care improves one's external appearance, neither can relax!
+
+Cultivate the habit of accomplishing one thing, complete a paper and start writing another one, and finish reading one book and then start reading another book. 
 
 ### About coffee. One cup of coffee per day. No more refreshing drinks in the afternoon.
 
