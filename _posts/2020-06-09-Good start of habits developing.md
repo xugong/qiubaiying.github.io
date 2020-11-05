@@ -16,9 +16,9 @@ tags：
 
 Dear Visitors, 
 
-Thanks for your interest of my personal website. It is updating and will come soon.
+Thanks for your interest in my website. It is updating and will come soon.
 
-For the current version, please go to the link to my googlesites https://sites.google.com/site/xugonghome
+For the current version, please go to the link to my google sites https://sites.google.com/site/xugonghome
 
 You are warmly welcomed to contact me!
 
