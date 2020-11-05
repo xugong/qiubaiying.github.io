@@ -1,6 +1,6 @@
 ---
 layout: post                           #使用的布局（不需要修改）
-title: Updating of my personal web               #标题
+title: Updating           #标题
 subtitle:     #副标题
 date: 2020-06-09                     #时间
 author: Xu Gong                      #作者
@@ -12,4 +12,15 @@ tags：
 
 
 
-# The personal web is updating. For the current version, please see the link https://sites.google.com/site/xugonghome
+# Updating. 
+
+Dear Visitors, 
+
+Thanks for your interest of my personal website. It is updating now and will come soon.
+
+For the current version, please go to the link to my googlesites https://sites.google.com/site/xugonghome
+
+You are warmly welcomed to contact me!
+
+yours,
+Xu
