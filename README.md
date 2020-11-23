@@ -1,1 +1,2 @@
-Welcome to my personal website! It is updating...
+Welcome to my personal website!
+
