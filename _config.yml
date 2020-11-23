@@ -1,10 +1,10 @@
 # Site settings
-title: Xu Gong
+title: Decision Neuroscience Lab
 SEOTitle: 龚栩 |Xu Gong
 header-img: img/post-bg-2015.jpg
 email: xuxugong@gmail.com
 description: ""
-keyword: "Xu Gong, 龚栩，superxuxu, xu" #key words
+keyword: "Xu Gong, 龚栩，superxuxu, xu, Decision Neuroscience, Decision-making" #key words
 url: "http://xugong.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/xugong/xugong.github.io.git" # you code repository
